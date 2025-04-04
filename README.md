@@ -39,7 +39,7 @@ I'm a software engineer with a focus on web development. I'm passionate about bu
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chenuvi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=chenuvi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+  <!-- <h3>⚡ Recent GitHub Activity</h3> -->
 
   <!-- https://github.com/jamesgeorge007/github-activi.githubty-readme -->
   <!--START_SECTION:activity-->
